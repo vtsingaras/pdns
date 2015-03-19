@@ -364,6 +364,7 @@ AC_CONFIG_FILES([
   modules/ldapbackend/Makefile
   modules/luabackend/Makefile
   modules/mydnsbackend/Makefile
+  modules/nictoolbackend/Makefile
   modules/opendbxbackend/Makefile
   modules/oraclebackend/Makefile
   modules/pipebackend/Makefile
