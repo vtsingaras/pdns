@@ -12,6 +12,7 @@ DIST_SUBDIRS = \
 	lmdbbackend \
 	luabackend \
 	mydnsbackend \
+    nictoolbackend \
 	opendbxbackend \
 	oraclebackend \
 	pipebackend \

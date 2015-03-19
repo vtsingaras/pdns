@@ -1,0 +1,3 @@
+[submodule "modules/nictoolbackend"]
+	path = modules/nictoolbackend
+	url = git@github.com:vtsingaras/nictoolbackend.git
